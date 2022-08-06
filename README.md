@@ -12,3 +12,5 @@ Motivation:
 My firewall is quite nailed up with geo-ip-lists and e.g. the free AbuseIPDB-List - and when a LE server is blocked the certificate validation fails!
 I've seen some entries of LE IP addresses in lists like AbuseIPDB - but I'm sure that the whitelisting is ok:
 The logged acme challenges and querys come from different IP addresses and when the same challenge comes from a known letsencrypt FQDN server, too I assume the whitelisting is ok....
+
+**In discussions some users brought up IP addreses I've never seen at my location in Germany. I assume that there are additional verificatien servers in other regions of the world. So please let me know your findings...**
