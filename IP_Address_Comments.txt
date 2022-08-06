@@ -5,7 +5,7 @@ outbound2.letsencrypt.org                 2022-06-28          active
 acme-v02.api.letsencrypt.org                                  for tests, non-productive?
 acme-staging-v02.api.letsencrypt.org                          for tests, non-productive?
 
-IP List Comments                          date                comment
+IP List Comments                          date                comment ( ? means old entry, not shure if active yet)
 ================                          ==========          =======
 13.59.153.150                             ?                   ?
 18.116.86.117                             ?                   ?
