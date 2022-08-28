@@ -1,6 +1,4 @@
 outbound1.letsencrypt.org
 outbound2.letsencrypt.org
-acme-v01.api.letsencrypt.org
-acme-staging.api.letsencrypt.org
 acme-v02.api.letsencrypt.org
 acme-staging-v02.api.letsencrypt.org
