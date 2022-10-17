@@ -43,7 +43,8 @@ IP List Comments                          date                comment ( ? means 
 18.192.23.35                              2022-08-28          ec2-18-192-23-35.eu-central-1.compute.amazonaws.com					
 18.192.36.99                              2022-08-28          ec2-18-192-36-99.eu-central-1.compute.amazonaws.com								
 18.192.55.112                             2022-08-28          ec2-18-192-55-112.eu-central-1.compute.amazonaws.com									
-18.192.99.12                              ?                   ?									
+18.192.99.12                              ?                   ?	
+18.192.245.0                              2022-10-17    ec2-18-192-245-0.eu-central-1.compute.amazonaws.com 
 18.194.58.132                             ?                   ?				
 18.194.90.174                             2022-08-28          ec2-18-194-90-174.eu-central-1.compute.amazonaws.com										
 18.196.102.134                            ?                   ?				
@@ -55,7 +56,8 @@ IP List Comments                          date                comment ( ? means 
 18.217.125.26                             2022-08-28          ec2-18-217-125-26.us-east-2.compute.amazonaws.com					
 18.219.221.239                            2022-08-28          ec2-18-219-221-239.us-east-2.compute.amazonaws.com					
 18.220.192.183                            2022-08-28          ec2-18-220-192-183.us-east-2.compute.amazonaws.com					
-18.220.25.215                             2022-08-28          ec2-18-220-25-215.us-east-2.compute.amazonaws.com					
+18.220.25.215                             2022-08-28          ec2-18-220-25-215.us-east-2.compute.amazonaws.com		
+18.221.77.37                              2022-10-17          ec2-18-221-77-37.us-east-2.compute.amazonaws.com
 18.222.105.102                            2022-08-28          ec2-18-222-105-102.us-east-2.compute.amazonaws.com								
 18.222.134.135                            2022-08-28          added, active							
 18.222.145.89                             ?                   ?				
@@ -86,7 +88,8 @@ IP List Comments                          date                comment ( ? means 
 3.144.75.81                               2022-08-28          ec2-3-144-75-81.us-east-2.compute.amazonaws.com					
 3.16.112.82                               2022-08-28          ec2-3-16-112-82.us-east-2.compute.amazonaws.com					
 3.17.71.143                               2022-08-28          ec2-3-17-71-143.us-east-2.compute.amazonaws.com										
-3.19.120.239                              ?                   ?				
+3.19.120.239                              ?                   ?	
+3.19.55.121                               2022-10-17          ec2-3-19-55-121.us-east-2.compute.amazonaws.com
 3.19.56.43                                2022-08-28          ec2-3-19-56-43.us-east-2.compute.amazonaws.com							
 3.21.185.231                              2022-08-28          ec2-3-21-185-231.us-east-2.compute.amazonaws.com					
 3.21.39.207                               2022-08-28          ec2-3-21-39-207.us-east-2.compute.amazonaws.com					
@@ -111,7 +114,6 @@ IP List Comments                          date                comment ( ? means 
 3.72.73.233                               2022-08-28          ec2-3-72-73-233.eu-central-1.compute.amazonaws.com	
 3.73.52.92                                2022-09-19          ec2-3-73-52-92.eu-central-1.compute.amazonaws.com
 3.73.159.42                               2022-08-28          ec2-3-73-159-42.eu-central-1.compute.amazonaws.com
-3.125.19.113                              2022-08-28          added, active
 3.136.27.87                               2022-09-19          ec2-3-136-27-87.us-east-2.compute.amazonaws.com
 34.209.191.57                             2022-08-28          added, active
 34.209.232.166                            2022-08-28          ec2-34-209-232-166.us-west-2.compute.amazonaws.com	
@@ -124,7 +126,8 @@ IP List Comments                          date                comment ( ? means 
 34.217.107.185                            2022-08-28          ec2-34-217-107-185.us-west-2.compute.amazonaws.com					
 34.219.87.132                             2022-08-28          ec2-34-219-87-132.us-west-2.compute.amazonaws.com								
 34.220.126.78                             2022-07-02          forum-tip, not verified by astromeier
-34.220.82.248                             2022-08-28          ec2-34-220-82-248.us-west-2.compute.amazonaws.com					
+34.220.82.248                             2022-08-28          ec2-34-220-82-248.us-west-2.compute.amazonaws.com	
+34.220.129.39                             2022-10-17          ec2-34-220-129-39.us-west-2.compute.amazonaws.com
 34.221.186.243                            2022-08-28          ec2-34-221-186-243.us-west-2.compute.amazonaws.com					
 34.221.255.206                            2022-08-28          ec2-34-221-255-206.us-west-2.compute.amazonaws.com										
 34.222.229.130                            ?                   ?				
@@ -151,12 +154,14 @@ IP List Comments                          date                comment ( ? means 
 52.39.4.59                                2022-08-28          ec2-52-39-4-59.us-west-2.compute.amazonaws.com													
 52.41.228.68                              ?                   ?								
 52.58.118.98                              ?                   ?			
-52.59.65.64                               2022-08-28          ec2-52-59-65-64.eu-central-1.compute.amazonaws.com					
+52.59.65.64                               2022-08-28          ec2-52-59-65-64.eu-central-1.compute.amazonaws.com
+52.58.148.172                             2022-10-17          ec2-52-58-148-172.eu-central-1.compute.amazonaws.com
 54.184.23.186                             2022-08-28          ec2-54-184-23-186.us-west-2.compute.amazonaws.com					
 54.185.185.210                            2022-08-28          ec2-54-185-185-210.us-west-2.compute.amazonaws.com					
 54.186.200.191                            2022-08-28          ec2-54-186-200-191.us-west-2.compute.amazonaws.com					
 54.189.22.122                             2022-08-28          ec2-54-189-22-122.us-west-2.compute.amazonaws.com					
-54.190.55.114                             2022-08-28          ec2-54-190-55-114.us-west-2.compute.amazonaws.com					
+54.190.55.114                             2022-08-28          ec2-54-190-55-114.us-west-2.compute.amazonaws.com	
+54.191.60.25                              2022-10-17          ec2-54-191-60-25.us-west-2.compute.amazonaws.com
 54.201.106.94                             2022-08-28          ec2-54-201-106-94.us-west-2.compute.amazonaws.com					
 54.201.251.93                             2022-08-28          ec2-54-201-251-93.us-west-2.compute.amazonaws.com								
 54.202.174.126                            ?                   ?				
