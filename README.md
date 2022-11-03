@@ -1,6 +1,11 @@
 # LetsEncrypt_Serverlist
 LetsEncrypt does NOT recommend to use a list of their verification servers as they can change without notice!
 
+**As LE forces its cloud verfication (https://letsencrypt.org/2020/02/19/multi-perspective-validation.html) it becomes more and more senseless to use a list of single IPs. Actually LE uses AWS Servers, but plans to use more cloud providers.
+I try to identify IP ranges or ASN numbers for future - but don't think that works.**
+
+**My workaround: I disable the firewall rules manually for a moment and renew my certificates in that period...**
+
 In some cases it could be useful to whitelist the servers used by LE.
 This list is updated from time to time.
 It is very probable that LE will change some of their servers and this is not reflected in this list asap....
