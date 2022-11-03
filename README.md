@@ -20,4 +20,4 @@ The logged acme challenges and querys come from different IP addresses and when 
 
 **In discussions some users brought up IP addreses I've never seen at my location in Germany. I assume that there are additional verification servers in other regions of the world. So please let me know your findings...**
 
-A valuable source I recently found: https://robotsdb.de/lets-encrypt-validation-server/
+A valuable source I recently found (2020): https://robotsdb.de/lets-encrypt-validation-server/
