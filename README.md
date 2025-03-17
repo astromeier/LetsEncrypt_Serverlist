@@ -1,6 +1,11 @@
 # LetsEncrypt_Serverlist
 LetsEncrypt does NOT recommend to use a list of their verification servers as they can change without notice!
 
+Starting 2025 I use a ASN List Alias for temporary whitelisting when the ACME verification process is ongoing.
+Please use file LestEncrypt_ASN.txt
+
+OLD and obsolete:
+
 **As LE forces its cloud verfication (https://letsencrypt.org/2020/02/19/multi-perspective-validation.html) it becomes more and more senseless to use a list of single IPs. Actually LE uses AWS Servers, but plans to use more cloud providers.
 I try to identify IP ranges or ASN numbers for future - but don't think that works.**
 
